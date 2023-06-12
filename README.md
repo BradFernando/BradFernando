@@ -39,7 +39,7 @@
 
 Aquí tienes un GIF de uno de mis personajes favoritos:
 
-![GIF](https://giphy.com/clips/xbox-game-xbox-series-x-s-dJNUL8c9zeB4jsGGEO)
+![GIF]([url_al_gif](https://media.giphy.com/media/63IqdUVg9HjDMG9NKF/giphy.gif))
 
 ¡Espero que hayas disfrutado visitando mi perfil! ¡No dudes en explorar mis repositorios y contactarme si tienes alguna pregunta o sugerencia! 😊
 
