@@ -40,7 +40,11 @@
 Aquí tienes un GIF de uno de mis personajes favoritos:
 
 ![GIF]
-<iframe src="https://giphy.com/embed/63IqdUVg9HjDMG9NKF" width="480" height="252" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/iQiyiOfficial-demon-slayer-kimetsu-no-yaiba-iqiyi-63IqdUVg9HjDMG9NKF">via GIPHY</a></p>
+- Lenguajes de programación: 
+  - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) Python
+  - ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) Java
+  - ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) C++
+  
 
 ¡Espero que hayas disfrutado visitando mi perfil! ¡No dudes en explorar mis repositorios y contactarme si tienes alguna pregunta o sugerencia! 😊
 
