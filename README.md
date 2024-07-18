@@ -32,7 +32,7 @@
 
 - Correo electrónico: bfcorro@espe.edu.ec
 - Twitter: [@Sr_PollitoB]((https://twitter.com/Sr_PollitoB))
-
+- +593 995 983 1285
 ¡No dudes en conectarte conmigo!
 
 ## 🎵 ¡Anime favorito!
