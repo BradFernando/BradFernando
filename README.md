@@ -12,7 +12,7 @@
 ## 🌱 Actualmente estoy aprendiendo
 
 - Machine Learning y Data Science
-- Desarrollo de aplicaciones Web: .Net, Laravel, Java
+- Desarrollo de aplicaciones Web: API REST, WEB SERVICES
 - Lenguajes de programación:
   
   - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
