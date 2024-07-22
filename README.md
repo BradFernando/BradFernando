@@ -23,6 +23,8 @@
   - ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) 
 
 ## 🤓☝️ Manejo los siguientes Frameworks
+
+A lo largo de mi formación y proyectos, he adquirido experiencia en diversos frameworks que me permiten desarrollar aplicaciones robustas y escalables. Entre ellos se encuentran:
 - ![Next](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 - ![Nest](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 - ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
