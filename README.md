@@ -60,7 +60,6 @@ A lo largo de mi formación y proyectos, he adquirido experiencia en diversos fr
 - One Piece ⚓
 - Demon Slayer 🔥
 
-Aquí tienes un GIF de uno de mis personajes favoritos:
 <br>
 ![me](https://github.com/BradFernando/RepoGiftsBrad/blob/main/uzuiTengen.gif)
 
