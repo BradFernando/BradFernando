@@ -16,6 +16,7 @@
 - Desarrollo de aplicaciones Web: .Net, Laravel, Java
 - Lenguajes de programación:
   - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
+  - ![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
   - ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white) 
   - ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) 
   - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
