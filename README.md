@@ -46,7 +46,7 @@
 
 Aquí tienes un GIF de uno de mis personajes favoritos:
 
-![GIF](https://media.giphy.com/media/63IqdUVg9HjDMG9NKF/giphy.gif)
+<div style="width:100%;height:0;padding-bottom:53%;position:relative;"><iframe src="https://giphy.com/embed/63IqdUVg9HjDMG9NKF" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/iQiyiOfficial-demon-slayer-kimetsu-no-yaiba-iqiyi-63IqdUVg9HjDMG9NKF">via GIPHY</a></p>
 
 ¡Espero que hayas disfrutado visitando mi perfil! ¡No dudes en explorar mis repositorios y contactarme si tienes alguna pregunta o sugerencia! 😊
 
