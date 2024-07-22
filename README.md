@@ -21,7 +21,6 @@
   - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
   - ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) 
 
-
 ## ⚡ Proyectos destacados
 
 - En progreso....
@@ -31,8 +30,9 @@
 ¡Me encantaría estar en contacto contigo! Puedes encontrarme en las siguientes plataformas:
 
 - Correo electrónico: bfcorro@espe.edu.ec
-- Twitter: [@Sr_PollitoB]((https://twitter.com/Sr_PollitoB))
+- Twitter: [@Sr_PollitoB](https://twitter.com/Sr_PollitoB)
 - +593 995 983 1285
+
 ¡No dudes en conectarte conmigo!
 
 ## 🎵 ¡Anime favorito!
