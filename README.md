@@ -61,7 +61,7 @@ A lo largo de mi formación y proyectos, he adquirido experiencia en diversos fr
 - Demon Slayer 🔥
 
 Aquí tienes un GIF de uno de mis personajes favoritos:
-
+![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
 
 
 ¡Espero que hayas disfrutado visitando mi perfil! ¡No dudes en explorar mis repositorios y contactarme si tienes alguna pregunta o sugerencia! 😊
