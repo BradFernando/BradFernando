@@ -5,8 +5,7 @@
 ## 📚 Habilidades
 
 - Bases de datos: MySQL, PostgreSQL, SQL Server, MongoDB
-- Lenguajes de programación: Python, Java, C++
-- Desarrollo web: HTML, CSS, JavaScript
+- Lenguajes de programación: Python, Java, C++, C#, PHP
 - Redes y seguridad informática
 - Git y control de versiones
 
