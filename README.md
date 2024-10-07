@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Bradley Corro
 
-¡Bienvenido(a) a mi perfil de GitHub! Soy estudiante de ITIN (Ingeniería en Tecnologías de la Información y Comunicación) en la Universidad de las Fuerzas Armadas ESPE. Me apasiona el mundo de las tecnologías de la información y comunicación, especialmente las bases de datos y los temas relacionados con redes e internet. Además, soy un gran fanático del anime. 😄
+¡Bienvenido(a) a mi perfil de GitHub! Soy Ingeniero en Tecnologías de la Información y Comunicación, graduado en la Universidad de las Fuerzas Armadas ESPE. Me apasiona el mundo de las tecnologías de la información y comunicación, especialmente las bases de datos y los temas relacionados con redes e internet. Además, soy un gran fanático del anime. 😄
 
 ## 📚 Habilidades
 
