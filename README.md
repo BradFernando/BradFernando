@@ -66,7 +66,7 @@ A lo largo de mi formación y proyectos, he adquirido experiencia en diversos fr
 
 - Correo electrónico: bfcorro@espe.edu.ec
 - Twitter: [@Sr_PollitoB](https://twitter.com/Sr_PollitoB)
-- +593 995 983 1285
+- +593 95 983 1285
 
 ¡No dudes en conectarte conmigo!
 
@@ -76,7 +76,6 @@ A lo largo de mi formación y proyectos, he adquirido experiencia en diversos fr
 
 - Naruto 🍥
 - Attack on Titan 🗡️
-- One Piece ⚓
 - Demon Slayer 🔥
 
 <br>
