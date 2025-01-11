@@ -65,6 +65,7 @@ A lo largo de mi formación y proyectos, he adquirido experiencia en diversos fr
 ¡Me encantaría estar en contacto contigo! Puedes encontrarme en las siguientes plataformas:
 
 - Correo electrónico: bfcorro@espe.edu.ec
+- Linkdl Profile: www.linkedin.com/in/bradley-corro-muñoz-635539135
 - Twitter: [@Sr_PollitoB](https://twitter.com/Sr_PollitoB)
 - +593 95 983 1285
 
